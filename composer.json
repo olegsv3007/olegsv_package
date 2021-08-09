@@ -1,0 +1,19 @@
+{
+    "name": "olegsv/hello-world",
+    "description": "Otus homework#3",
+    "version": "1.0",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oleg Sviridov",
+            "email": "olegsv3007@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    }
+}
