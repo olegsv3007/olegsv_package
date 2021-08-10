@@ -1,7 +1,7 @@
 {
     "name": "olegsv/hello-world",
     "description": "Otus homework#3",
-    "version": "1.0",
+    "version": "1.0.1",
     "autoload": {
         "psr-4": {
             "HelloWorld\\": "src/"
@@ -14,6 +14,6 @@
         }
     ],
     "require": {
-        "php": ">=7.3"
+        "php": ">=5.3"
     }
 }
